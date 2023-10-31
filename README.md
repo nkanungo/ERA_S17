@@ -52,4 +52,9 @@ In this project, we've developed a unified model file that combines elements fro
    - The patch embedding mechanism, using the `PatchEmbedding` class.
    - A classifier for making predictions.
 
+**Developers**
+
+Manjunath Yellipeta
+Nihar Kanungo
+
 
